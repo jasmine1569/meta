@@ -1,0 +1,20 @@
+{
+  "name": "meta",
+  "homepage": "https://github.com/jasmine1569/meta",
+  "authors": [
+    "Jasmine Beeman <jasmine.beeman@metalab.csun.edu>"
+  ],
+  "description": "metaphor project",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "metaphor": "^0.12.1"
+  }
+}
